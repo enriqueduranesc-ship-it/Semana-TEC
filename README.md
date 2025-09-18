@@ -1,2 +1,2 @@
-# Semana-5
+# Semana TEC
 Testeo de uso de Git
